@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "105364596581",
+        "firebase_url": "https://ecollenger.firebaseio.com",
+        "project_id": "ecollenger",
+        "storage_bucket": "ecollenger.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:105364596581:android:3f799f0ddbd373c48e638c",
+            "android_client_info": {
+                "package_name": "com.radiant.ecollenger"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "105364596581-78it9e83ub426d6agolrvdrecnl5he8m.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.radiant.ecollenger",
+                    "certificate_hash": "fe69038589262dbc735a1a7849590505329958ae"
+                }
+            },
+            {
+                "client_id": "105364596581-e21n30m04d832j37k7a8uu462933oq7o.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyB6NYJ6e0ChNM2AfhOMVtbdos-sFhqw8x8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "105364596581-e21n30m04d832j37k7a8uu462933oq7o.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
