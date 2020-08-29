@@ -213,7 +213,7 @@ class _DashboardState extends State<Dashboard> {
                         TextStyle(fontSize: 32.0, fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    "2020 June 27, Saturday",
+                    "2020 August 29, Saturday",
                     style: klabelText,
                   )
                 ],

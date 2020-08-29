@@ -1,0 +1,7 @@
+#Sat Aug 29 10:23:12 NPT 2020
+base.0=/home/aadarsha/Projects/flutter/hackathon/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/aadarsha/Projects/flutter/hackathon/build/app/intermediates/dex/release/mergeDexRelease/out/classes2.dex
